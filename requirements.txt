@@ -1,0 +1,17 @@
+# Web Application
+streamlit
+python-dotenv
+
+# LLM & Direct HTTP API
+requests
+
+# Embeddings & Vector DB
+sentence-transformers
+chromadb
+torchvision
+
+# Document Processing & RAG
+pypdf
+langchain-text-splitters
+beautifulsoup4
+numpy
